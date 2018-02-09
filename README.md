@@ -1,0 +1,2 @@
+# projectmia
+Latihan 1
